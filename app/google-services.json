@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966829883187",
+    "firebase_url": "https://macsolution-7452a.firebaseio.com",
+    "project_id": "macsolution-7452a",
+    "storage_bucket": "macsolution-7452a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966829883187:android:a99582b8e6f3e428974846",
+        "android_client_info": {
+          "package_name": "gunjika.varshney.gla.macsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966829883187-7jp8p94hlgv3rlvrcsaljrf6j4qai8tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gunjika.varshney.gla.macsolution",
+            "certificate_hash": "cb800a6d948c09f88bb0e4b59f3f87fe9bf8f3ab"
+          }
+        },
+        {
+          "client_id": "966829883187-a1hhf90ld3pelj7g5i93v5acjdil4faj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8juiAkV25aC4c94ybY7gARIkkFUvKso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966829883187-a1hhf90ld3pelj7g5i93v5acjdil4faj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
